@@ -1,5 +1,5 @@
 # ScamList
-## The Latest Scam and Phishing Attempts. Click "Watch" to stay up to date.
+## The Latest Scam and Phishing Attempts. Click "Watch" to stay up to date. Submit a Pull Request to Add a Scam.
 
 Also see:
 
