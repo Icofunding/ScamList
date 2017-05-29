@@ -7,6 +7,10 @@ Also see:
 
 *[Protecting yourself from Scammers](https://github.com/Scanate/Safety)
 
+
+### Hacking a Twitter Account and Direct Messaging People
+<img src="http://imgur.com/AgGT6LK.jpg" width="80%">
+
 ### Listing a Fake Token on the Waves Decentralized Exchange
 <img src="http://imgur.com/v6iqBye.jpg" width="80%">
 
