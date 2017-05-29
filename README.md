@@ -7,6 +7,9 @@ Also see:
 
 *[Protecting yourself from Scammers](https://github.com/Scanate/Safety)
 
+### Listing a Fake Token on the Waves Decentralized Exchange
+<img src="http://imgur.com/v6iqBye.jpg" width="80%">
+
 ### Impersonating a website (mobilego.io vs mobilegoproject.io)
 
 <img src="https://i.imgur.com/vtcBake.jpg" width="41%"> <img src="https://i.imgur.com/tx2yWpn.jpg" width="40%">
